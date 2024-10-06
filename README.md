@@ -8,4 +8,4 @@ integral = error + integrsl
 derivative = error - last_error 
 
 
-=> (error*Kp) + (integral*Ki) + (derivative*Kd)
+=> (error * Kp) + (integral * Ki) + (derivative * Kd)
